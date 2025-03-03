@@ -1,0 +1,1 @@
+Esta atividade faz parte da disciplina de Paradigma Orientado a Objeto para o período 2024/2. O objetivo é desenvolver um sistema para a fábrica de bolos "Só Bolo" que calcula preços de venda e gerencia os bolos expostos na prateleira.
